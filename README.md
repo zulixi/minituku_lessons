@@ -1,1 +1,2 @@
 # minituku_lessons
+Rubyがミニツクの勉強用のリポジトリーです
