@@ -1,2 +1,5 @@
 # minituku_lessons
 Rubyがミニツクの勉強用のリポジトリーです
+
+chapter7クラスとモジュール１以降を復習する
+
